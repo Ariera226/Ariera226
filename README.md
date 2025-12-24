@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on ... Possibly anything as long as I get good at it at some point.
 - 🤔 I’m looking for help with ... Pretty much anything other than Python, I'm still not used to other programming languages.
 - 💬 Ask me about ... My life, or my interests. Maybe we'll become friends some day.
-- 📫 How to reach me: My socials as it's listed in my profile.
+- 📫 How to reach me: My socials as it's listed on my profile.
 - 😄 Pronouns: He/him
